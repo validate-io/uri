@@ -1,7 +1,7 @@
 {
-  "name": "validate.io-url",
+  "name": "validate.io-uri",
   "version": "0.0.0",
-  "description": "Validates if a value is a URL.",
+  "description": "Validates if a value is a URI.",
   "author": {
     "name": "Athan Reines",
     "email": "kgryte@gmail.com"
@@ -20,18 +20,30 @@
   "main": "./lib",
   "repository": {
     "type": "git",
-    "url": "git://github.com/validate-io/url.git"
+    "url": "git://github.com/validate-io/uri.git"
   },
   "keywords": [
     "validate.io",
     "validate",
     "validation",
-    "validator"
+    "validator",
+    "valid",
+    "url",
+    "uri",
+    "is",
+    "isurl",
+    "isuri",
+    "isvalid",
+    "check",
+    "string",
+    "isstring"
   ],
   "bugs": {
-    "url": "https://github.com/validate-io/url/issues"
+    "url": "https://github.com/validate-io/uri/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "validate.io-string": "^1.0.2"
+  },
   "devDependencies": {
     "chai": "2.x.x",
     "mocha": "2.x.x",
