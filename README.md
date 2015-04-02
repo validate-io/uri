@@ -150,7 +150,7 @@ $ node ./examples/index.js
 ## Notes
 
 *	See [RFC 3986](http://tools.ietf.org/html/rfc3986) and [Wikipedia](http://en.wikipedia.org/wiki/URI_scheme) for information regarding the URI scheme.
-*	This module uses the same test URIs as [valid-url](https://github.com/ogt/valid-url) (based on a corresponding Perl [package](http://anonscm.debian.org/cgit/users/dom/libdata-validate-uri-perl.git/tree/lib/Data/Validate/URI.pm)), where are, in turn, derived from [RFC 3986](http://tools.ietf.org/html/rfc3986).
+*	This module uses the same test URIs as [valid-url](https://github.com/ogt/valid-url) (a clone of a corresponding Perl [package](http://anonscm.debian.org/cgit/users/dom/libdata-validate-uri-perl.git/tree/lib/Data/Validate/URI.pm)), which are based on examples from [RFC 3986](http://tools.ietf.org/html/rfc3986).
 
 
 ## Tests
