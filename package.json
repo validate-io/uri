@@ -1,6 +1,6 @@
 {
   "name": "validate.io-uri",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Validates if a value is a URI.",
   "author": {
     "name": "Athan Reines",
